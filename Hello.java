@@ -6,7 +6,7 @@ public class Hello
         {
             System.out.println("Hello world"+i);
             Add a = new Add();
-            System.out.println(add(i,i));
+            System.out.println(a.add(i,i));
         }
     }
 }
